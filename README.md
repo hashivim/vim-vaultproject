@@ -11,7 +11,7 @@ generic term and I didn't want to squat on it.
 With [pathogen.vim](https://github.com/tpope/vim-pathogen) just do:
 
     cd ~/.vim/bundle
-    git clone git://github.com/markcornick/vim-vaultproject.git
+    git clone https://github.com/markcornick/vim-vaultproject.git
 
 If you prefer to use something besides pathogen, go ahead.
 
