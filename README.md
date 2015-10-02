@@ -17,4 +17,4 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@cornick.io>. MIT license.
+Written by Mark Cornick <mark@markcornick.com>. MIT license.
