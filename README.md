@@ -21,4 +21,4 @@ Written by Mark Cornick <https://www.markcornick.com/>. MIT license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
-Covenant](contributor-covenant.org) code of conduct.
+Covenant](http://contributor-covenant.org) code of conduct.
