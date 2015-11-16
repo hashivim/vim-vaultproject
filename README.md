@@ -17,7 +17,7 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <https://www.markcornick.com/>. MIT license.
+Written by Mark Cornick <https://www.markcornick.com/>. ISC license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
