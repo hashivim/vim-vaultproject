@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Supports%20Vault%20Version-0.7.3-blue.svg)](https://github.com/hashicorp/Vault/blob/v0.7.3/CHANGELOG.md)
+
 # Call For Maintainers
 
 This plugin, along with others like it, is now maintained by the
