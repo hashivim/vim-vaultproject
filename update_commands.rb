@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
-# Use this script to update the commands auto-completed in plugin/vaultproject.vim.
+# Use this script to update the commands
+# auto-completed in plugin/vaultproject.vim
 
 require 'open3'
 
